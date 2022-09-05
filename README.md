@@ -4,9 +4,6 @@ Due to Covid-19 ,a year full of financial loss, a lot of businesses have been go
 
 ![image](https://user-images.githubusercontent.com/88525549/188408844-b88db0c6-1358-4d40-bc2a-5dca2aefafbd.png)
 
-
-![image](https://user-images.githubusercontent.com/88525549/188408051-78fe714d-407a-45af-9539-63870d1fd1cf.png)
-
 Even though the banking sector has advanced in many ways, it has limited assets which can be given to limited people only. And the process to find out to whom the loan should be given is quite lengthy and tedious .
 
 In order to make this process easy and more accurate, we can use machine learning to find an appropriate method to predict the eligibility to get a loan.
@@ -39,7 +36,7 @@ So the main objective of this project is to find a appropriate algorithm using M
 
 1. Decision Tree
 
-![image](https://user-images.githubusercontent.com/88525549/188408457-9e0eabfb-26b7-4330-8f49-f32df0b9a267.png)
+![image](https://user-images.githubusercontent.com/88525549/188410036-ec29b2bb-34be-48d6-a07b-d82938d0cb42.png)
 
 2. Logistic Regression
 
@@ -67,5 +64,5 @@ Final Results
 # Conclusion
 
 Hence the project predicts successfully about the approval of loan for an individual based on various of loan for an individual based on various characteristics such as income, credit history and many more. We also found that the most accurate model for prediction is that of Decision Tree which has the highest accuracy and precision.
-![image](https://user-images.githubusercontent.com/88525549/188409740-75dfbf7d-da10-448c-b1de-e278088d58c9.png)
+
 

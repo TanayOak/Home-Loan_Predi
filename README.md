@@ -63,6 +63,6 @@ So the main objective of this project is to find a appropriate algorithm using M
 
 # Conclusion
 
-Hence the project predicts successfully about the approval of loan for an individual based on various of loan for an individual based on various characteristics such as income, credit history and many more. We also found that the most accurate model for prediction is that of Decision Tree which has the highest accuracy and precision.
+Hence the project predicts successfully about the approval of loan for an individual based on various characteristics such as income, credit history and many more. We also found that the most accurate model for prediction is that of Decision Tree which has the highest accuracy and precision.
 
 
